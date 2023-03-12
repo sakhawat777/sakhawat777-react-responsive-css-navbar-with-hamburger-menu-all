@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Link: https://alvarotrigo.com/blog/hamburger-menu-css/
+Link: https://codepen.io/alvarotrigo/pen/wvrzPWL
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
